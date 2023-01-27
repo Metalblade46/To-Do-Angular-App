@@ -1,4 +1,5 @@
-# HelloWorld
+# To-Do List
+A completely frontend run application to add To-Dos to a list, mark them as done and delete them. 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.1.
 
